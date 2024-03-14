@@ -5,7 +5,7 @@ import cover from "../../assets/images/cover-photos1.png";
 import pic from "../../assets/images/boy1.jpg";
 
 const Blog = ({ blog, handleBookmark,handleMarkAsRead }) => {
-  const { title, author, reading_time,posted_time,hashtags } = blog;
+  const {id, title, author, reading_time,posted_time,hashtags } = blog;
 
   return (
     <div className="border mb-4">
@@ -29,7 +29,7 @@ const Blog = ({ blog, handleBookmark,handleMarkAsRead }) => {
       <div className="flex gap-2 my-2">
         {hashtags.map((hash,idx)=><span key={idx}><a href="">#{hash}</a></span>)}
       </div>
-      <button onClick={()=>handleMarkAsRead(reading_time)} className="underline text-blue-500">Mark as Read</button>
+      <button onClick={()=>handleMarkAsRead(reading_time, id)} className="underline text-blue-500">Mark as Read</button>
     </div>
   );
 };
