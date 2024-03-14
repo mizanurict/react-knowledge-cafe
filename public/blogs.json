@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/G5vLbNd/1552579763-winfatt-scopri-i-database-del-software-gestionale-winfatt.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://via.placeholder.com/100",
+      "posted_time": "2024-01-11T08:00:00Z",
+      "reading_time": 10,
+      "hashtags": ["fiction", "novel", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/ZMSBprs/database-blue.png",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_img": "https://via.placeholder.com/100",
+      "posted_time": "2024-01-10T12:30:00Z",
+      "reading_time": 8,
+      "hashtags": ["science fiction", "technology"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/m8s27z2/4ad30cdd-5db9-4bd8-9409-fa48fbaa02dc.jpg",
+      "title": "Consectetur Adipiscing",
+      "author": "Alice Johnson",
+      "author_img": "https://via.placeholder.com/100",
+      "posted_time": "2024-01-09T15:45:00Z",
+      "reading_time": 15,
+      "hashtags": ["drama", "romance"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/G5vLbNd/1552579763-winfatt-scopri-i-database-del-software-gestionale-winfatt.jpg",
+      "title": "Sed Do Eiusmod",
+      "author": "Mark Williams",
+      "author_img": "https://via.placeholder.com/100",
+      "posted_time": "2024-01-08T10:15:00Z",
+      "reading_time": 12,
+      "hashtags": ["mystery", "thriller"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://via.placeholder.com/300",
+      "title": "Labore Et Dolore",
+      "author": "Emily Brown",
+      "author_img": "https://via.placeholder.com/100",
+      "posted_time": "2024-01-07T14:00:00Z",
+      "reading_time": 20,
+      "hashtags": ["fantasy", "magic"]
+    }
+  ]
+  
